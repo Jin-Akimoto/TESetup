@@ -3,7 +3,7 @@
 gaku 様の Tablacus Explorerのインストーラを作ってみました。それだけです。
 
 動作確認あまりしてないので、何かあっても全く責任持ちません。気が向かないと質問は基本無視します。
-廃棄していい環境で動作確認するか、自己責任で。
+自己責任で。
 
 ## ビルド環境
 - windows 10 pro
@@ -35,7 +35,7 @@ gaku 様の Tablacus Explorerのインストーラを作ってみました。そ
 
 ## 公式様リンク集
 このページは恐らく更新しないよ!
-こんな非公式なページ見てないで、以下の公式の TE 使って下さい! 
+
 
 - [Tablacus Explorer](https://tablacus.github.io/explorer.html)
 - [Tablacus ExplorerのgitHub](https://github.com/tablacus/TablacusExplorer))
